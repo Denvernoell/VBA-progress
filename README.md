@@ -1,5 +1,11 @@
-# VBA-progress
-The VBA code that I use most commonly
+# What is VBA
+VBA (Visual Basic for Applications) is an available tool that can be used to automate repetitive tasks within programs like Microsoft Excel.
+
+Here you can find what has been most useful to me as I have begun using it on a daily basis.
+
+This is by no means all of the code that you will ever need but it is the code that I use most commonly.
+
+## Quickstart.md
 
 What I find most useful to start with is Movement
 
