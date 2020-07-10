@@ -1,6 +1,10 @@
 # VBA-progress
 The VBA code that I use most commonly
 
+What I find most useful to start with is Movement
+
+From there it might be helpful to learn if statements and loops which are in Logic
+
 ## Cell references
 ### Absolute
 `Range("A1:C3").select`
