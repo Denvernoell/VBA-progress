@@ -16,7 +16,7 @@ The VBA code that I use most commonly
 ### To end
 `Range(ActiveCell, ActiveCell.End(xlDown)).Select`
 ### Increase
-`Selection.Resize(Selection.Rows.Count, Selection.Columns.Count + 1).Select'
+`Selection.Resize(Selection.Rows.Count, Selection.Columns.Count + 1).Select`
 
 ## Fill
 `Selection.FillRight`
