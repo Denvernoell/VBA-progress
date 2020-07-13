@@ -4,6 +4,7 @@ VBA (Visual Basic for Applications) is an available tool that can be used to aut
 Here you can find what has been most useful to me as I have begun using it on a daily basis.
 
 This is by no means all of the code that you will ever need but it is the code that I use most commonly.
+[Quickstart](https://github.com/Denvernoell/VBA-progress/Quickstart.md)
 
 ## Quickstart.md
 
